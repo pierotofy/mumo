@@ -1,0 +1,4 @@
+pyalsaaudio==0.8.4
+pynput==1.4
+python-xlib==0.23
+six==1.11.0
